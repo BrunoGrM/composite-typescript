@@ -2,8 +2,6 @@
 
 ## Passos para execução
 
-<br>
-
 ```bash
 # Utilizando o yarn
 $ yarn
