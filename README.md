@@ -1,7 +1,10 @@
 # Exemplo padrão de projeto Composite feito em TypeScript
 
-Passos para execução:
+## Passos para execução:
+## - Utilizando o yarn
+### yarn
+### yarn dev
 
-## yarn
-
-## yarn dev
+## - Utilizando o npm
+### npm i
+### npm run dev
